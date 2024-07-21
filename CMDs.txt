@@ -1,0 +1,29 @@
+---------FOR CORS---------
+npm i cors
+
+
+
+----------FOR React Project with Vite---------
+npm create vite@latest
+
+
+
+
+
+---------FOR Bootstrap----------
+npm i react-bootstrap
+
+
+
+
+--------FOR Tailwind-----------
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+
+
+
+
+-----------FOR REACT ROUTER DOM---------
+npm i react-router-dom
